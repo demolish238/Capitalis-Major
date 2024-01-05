@@ -3,6 +3,10 @@ Upstream-Name: Capitalis-Major
 Upstream-Contact: demolish238 (Or your actual name if you want) <(Your email address here)>
 Source: https://github.com/demolish238/Capitalis-Major
 
+Files: *
+Copyright: demolish238 (Or same as above)
+License: AGPL-3.0-or-later
+
 Files:
   images/ship/Kriegsmacher
   images/ship/monolith
