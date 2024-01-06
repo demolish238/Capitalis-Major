@@ -20,6 +20,7 @@ mission "Monolith Job"
 		random < 100
 		has "main plot completed"
 		has "event: deep sky tech available"
+		has "license: City-Ship"
 	on offer
 		conversation
 			`	Your console lights up as you receive a message from a representative of Lionheart Industries.`
