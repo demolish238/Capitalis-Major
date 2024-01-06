@@ -17,7 +17,7 @@ mission "Monolith Job"
 		not planet "Valhalla"
 	destination "Valhalla"
 	to offer
-		random < 100
+		random < 5
 		has "main plot completed"
 		has "event: deep sky tech available"
 		has "license: City-Ship"
