@@ -763,6 +763,7 @@ mission "Sestor Factory Ship Elimination"
 	to offer
 		random <  30
 		or
+			has "Wanderers: Sestor: Final: Patched: done"
 			has "Wanderers: Sestor: Final: done"
 			has "event: wanderers: sestor eliminated"
 	to fail
