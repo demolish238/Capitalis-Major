@@ -763,8 +763,8 @@ mission "Sestor Factory Ship Elimination"
 	to offer
 		random <  30
 		or
-			"Wanderers: Sestor: Final: done" != 0
-			"event: wanderers: sestor eliminated" != 0
+			has "Wanderers: Sestor: Final: done"
+			has "event: wanderers: sestor eliminated"
 	to fail
 		has "event: wanderers: Kar Ik Vot 927"
 	on offer
